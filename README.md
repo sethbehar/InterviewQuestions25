@@ -1,4 +1,4 @@
-# Solution to PunchLogicTest
+# Solution to Total Compensation Test
 
 ## How to run the code
 Change directory into the 'InterviewQuestions25' dir and run the following command
